@@ -1,5 +1,5 @@
 # Course Overview
-This repository is dedicated to the projects completed during **"Yandex.Practicum Data Analysis"** professional program. 
+This repository is dedicated to the projects completed during the **"Yandex.Practicum Data Analysis"** professional program. 
 
 It covered the following themes:
 1. Data Preprocessing (Python)
