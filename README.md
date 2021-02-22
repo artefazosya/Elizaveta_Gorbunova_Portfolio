@@ -13,9 +13,9 @@ It covered the following themes:
 
 ## Projects Overview
 
- ### Project 8
+ ### Project #8
  
- [08_Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
+ [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
  
  In this project I've worked with data on food market in LA to provide recommendations for a new restaurant investors:
  * I counted different types of establishments
@@ -29,9 +29,9 @@ It covered the following themes:
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
 
- ### Project 9
+ ### Project #9
  
- [09_Mobile_app_conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
+ [Mobile_app_conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
  
  In this project I've analysed logs of a mobile app to improve conversion and analyze experiment results:
  * I've checked how many logs are there per each date, chose a suitable date interval for analysis
