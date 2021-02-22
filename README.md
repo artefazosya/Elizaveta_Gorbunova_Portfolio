@@ -25,8 +25,8 @@ It covered the following themes:
 
 **Libraries used**: pandas, matplotlib, scipy, seaborn
 
-<img src="07_conversion_dif.png" alt="drawing" width="400"/>
-<img src="07_difference.png" alt="drawing" width="400"/>
+<img src="images/07_conversion_dif.png" alt="drawing" width="400"/>
+<img src="images/07_difference.png" alt="drawing" width="400"/>
 
 ## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
  
