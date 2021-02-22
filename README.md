@@ -1,12 +1,12 @@
 # yandex-practicum
 ## Course Overview
 This repository is dedicated to the projects completed during "Yandex.Practicum Data Analysis" professional program. 
-It lasted 7 months and covered the following themes:
+It covered the following themes:
 1. Data Preprocessing (Python)
-2. Exploratory Data Analysis 
+2. Exploratory Data Analysis (pandas, numpy)
 3. Statistical Data Analysis (statistics, hypotheses testing)
-4. Data Collection and Storage
-5. Business Analytics
+4. Data Collection and Storage (HTML, SQL)
+5. Business Analytics ()
 6. Making Business Decisions Based on Data (hypotheses prioritization, A/B testing)
 7. Automation (Tableau)
 8. Forecasts and Predictions (Machine Learning)
@@ -19,8 +19,7 @@ It lasted 7 months and covered the following themes:
  * Gave recommendations on conversion improvement
  * Checked whether there were any statistically significant differences between each group
  * Interpreted the results of the A/A/B experiment
-![](https://github.com/artefazosya/yandex-practicum/blob/main/images/events%20per%20date.png)
-![](https://github.com/artefazosya/yandex-practicum/blob/main/images/funnel.png)
+ * ![](https://github.com/artefazosya/yandex-practicum/blob/main/images/events%20per%20date.png) ![](https://github.com/artefazosya/yandex-practicum/blob/main/images/funnel.png)
 
   **Key words**: sales funnel, conversion, A/B test, user behaviour. 
   **Libraries used**: pandas, plotly, seaborn, scipy.
