@@ -12,7 +12,6 @@ It covered the following themes:
 8. Forecasts and Predictions (Machine Learning)
 
 ## Projects Overview
-
  ### Project #8
  
  [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
@@ -25,9 +24,9 @@ It covered the following themes:
  * Formulated recommendations 
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
+
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
-
 
  ### Project #9
  
