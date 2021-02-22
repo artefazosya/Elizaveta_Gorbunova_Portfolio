@@ -24,9 +24,9 @@ It covered the following themes:
  * Formulated recommendations 
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
-<img src="images/08_pie.png" alt="drawing" width="500"/>
-<img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/08_seats.png" alt="drawing" width="500"/>
-<img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/08_barplot.png" alt="drawing" width="500"/>
+<img src="images/08_pie.png" alt="drawing" width="400"/>
+<img src="images/08_seats.png" alt="drawing" width="400"/>
+<img src="images/08_barplot.png" alt="drawing" width="400"/>
 
 
  ### Project 9
@@ -41,8 +41,8 @@ It covered the following themes:
  
 **Key words**: sales funnel, conversion, A/B test, user behaviour. **Libraries used**: pandas, plotly, seaborn, scipy.
 
-<img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/events%20per%20date.png" alt="drawing" width="500"/>
-<img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/funnel.png" alt="drawing" width="500"/>
+<img src="images/events%20per%20date.png" alt="drawing" width="400"/>
+<img src="images/funnel.png" alt="drawing" width="400"/>
 
 
 
