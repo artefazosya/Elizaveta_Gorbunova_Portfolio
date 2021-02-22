@@ -1,4 +1,4 @@
-# yandex-practicum
+# Elizaveta Gorbunova Yandex.Practicum Portfolio
 ## Course Overview
 This repository is dedicated to the projects completed during "Yandex.Practicum Data Analysis" professional program. 
 It covered the following themes:
@@ -24,7 +24,7 @@ It covered the following themes:
  * Formulated recommendations 
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
-<img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/08_pie.png" alt="drawing" width="500"/>
+<img src="images/08_pie.png" alt="drawing" width="500"/>
 <img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/08_seats.png" alt="drawing" width="500"/>
 <img src="https://github.com/artefazosya/yandex-practicum/blob/main/images/08_barplot.png" alt="drawing" width="500"/>
 
