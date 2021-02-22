@@ -30,7 +30,7 @@ It covered the following themes:
 
  ### Project #9
  
- [Mobile_app_conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
+ [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
  
  In this project I've analysed logs of a mobile app to improve conversion and analyze experiment results:
  * I've checked how many logs are there per each date, chose a suitable date interval for analysis
