@@ -13,14 +13,16 @@ It covered the following themes:
 
 ## Projects Overview
  ### [09_Mobile_app_conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/29903fd8f7591278f731359ba2144c47db3cbe02/09_Mobile_app_conversion.ipynb#goal)
+ 
  In this project I've analyzed logs of a mobile app:
  * I've checked how many logs are there per each date, chose a suitable date interval for analysis
  * Counted user actions and created a sales funnel
  * Gave recommendations on conversion improvement
  * Checked whether there were any statistically significant differences between each group
  * Interpreted the results of the A/A/B experiment
- * ![](https://github.com/artefazosya/yandex-practicum/blob/main/images/events%20per%20date.png) ![](https://github.com/artefazosya/yandex-practicum/blob/main/images/funnel.png)
+**Key words**: sales funnel, conversion, A/B test, user behaviour. **Libraries used**: pandas, plotly, seaborn, scipy.
+![](https://github.com/artefazosya/yandex-practicum/blob/main/images/events%20per%20date.png) 
+![](https://github.com/artefazosya/yandex-practicum/blob/main/images/funnel.png)
 
-  **Key words**: sales funnel, conversion, A/B test, user behaviour. 
-  **Libraries used**: pandas, plotly, seaborn, scipy.
+ 
 
