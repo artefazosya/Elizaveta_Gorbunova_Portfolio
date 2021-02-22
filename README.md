@@ -12,7 +12,7 @@ It lasted 7 months and covered the following themes:
 8. Forecasts and Predictions (Machine Learning)
 
 ## Projects Overview
- * 09_Mobile_app_conversion 
+ * [09_Mobile_app_conversion](https://github.com/artefazosya/yandex-practicum/blob/main/09_Mobile_app_conversion.ipynb)
  
   **Key words**: sales funnel, conversion, A/B test, user behaviour. 
   **Libraries used**: pandas, plotly, seaborn, scipy.
