@@ -1,5 +1,4 @@
-# Elizaveta Gorbunova Yandex.Practicum Portfolio
-## Course Overview
+# Course Overview
 This repository is dedicated to the projects completed during "Yandex.Practicum Data Analysis" professional program. 
 It covered the following themes:
 1. Data Preprocessing (Python)
@@ -11,8 +10,8 @@ It covered the following themes:
 7. Automation (Tableau)
 8. Forecasts and Predictions (Machine Learning)
 
-## Projects Overview
- ### Project #8
+# Projects Overview
+ ## Project #8
  
  [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
  
@@ -28,7 +27,7 @@ It covered the following themes:
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
- ### Project #9
+ ## Project #9
  
  [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
  
