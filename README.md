@@ -14,6 +14,7 @@ It covered the following themes:
 ## Projects Overview
 
  ### Project 8
+ 
  [08_Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
  
  In this project I've worked with data on food market in LA to provide recommendations for a new restaurant investors:
@@ -24,12 +25,12 @@ It covered the following themes:
  * Formulated recommendations 
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. **Libraries used**: pandas, matplotlib, numpy, plotly, seaborn.
-<img src="images/08_pie.png" alt="drawing" width="400"/>
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
 
  ### Project 9
+ 
  [09_Mobile_app_conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)
  
  In this project I've analysed logs of a mobile app to improve conversion and analyze experiment results:
