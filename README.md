@@ -3,9 +3,9 @@
 
 This repository holds several projects that I've done during my studies at **"Yandex.Practicum Data Analysis"** professional program.
 1. [Mobile app conversion](#mobile)
-2. [Online store A/B testing]
-3. [Marketing expenses research]
-4. [Food market research]
+2. [Online store A/B testing](#online_store)
+3. [Marketing expenses research](#marketing)
+4. [Food market research](#food)
 
 ## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)<a id='mobile'></a>
  
@@ -22,7 +22,7 @@ This repository holds several projects that I've done during my studies at **"Ya
 <img src="images/events%20per%20date.png" alt="drawing" width="400"/>
 <img src="images/funnel.png" alt="drawing" width="400"/>
 
-## [Online store A/B testing](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/07_Online_store_AB_testing/07_Online_store_AB_testing.ipynb)
+## [Online store A/B testing](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/07_Online_store_AB_testing/07_Online_store_AB_testing.ipynb)<a id='online_store'></a>
  
  In this project I've worked with data on orders and visits of an online store:
  * I prioritised list of hypotheses to test using ICE and RICE scores
@@ -38,7 +38,7 @@ This repository holds several projects that I've done during my studies at **"Ya
 <img src="images/07_conversion_dif.png" alt="drawing" width="400"/>
 <img src="images/07_difference.png" alt="drawing" width="400"/>
 
-## [Marketing expenses research](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/06_Marketing_expenses_research/06_Marketing_expenses_research.ipynb)
+## [Marketing expenses research](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/06_Marketing_expenses_research/06_Marketing_expenses_research.ipynb)<a id='marketing'></a>
  
  For this project I've analysed data on marketing costs, visits and orders for Yandex.Afisha:
  * Described how clients used the product and when they made purchases
@@ -54,7 +54,7 @@ This repository holds several projects that I've done during my studies at **"Ya
 <img src="images/06_area_plot.png" alt="drawing" width="400"/>
 <img src="images/06_romi.png" alt="drawing" width="400"/>
 
-## [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)
+## [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)<a id='food'></a>
  
  In this project I've worked with data on food market in LA to provide recommendations for a new restaurant investors:
  * I counted different types of establishments
