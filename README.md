@@ -12,7 +12,7 @@ This repository holds several projects that I've done during my studies at **"Ya
  In this project I've analysed mobile app logs:
  * Determined how many logs are there per each date, chose a suitable date interval for analysis
  * Created event funnel to understand when users leave the app
- * Gave recommendations on conversion improvement
+ * Developed recommendations on conversion improvement
  * Checked whether new design was beneficial using the results of A/A/B test
  
 **Key words**: sales funnel, conversion, A/B test, user behaviour. 
