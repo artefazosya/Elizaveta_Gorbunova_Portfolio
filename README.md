@@ -9,8 +9,8 @@ This repository holds several projects that I've done during my studies at **"Ya
 
 ## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)<a id='mobile'></a>
  
- In this project I've analysed logs of a mobile app:
- * I've checked how many logs are there per each date, chose a suitable date interval for analysis
+ In this project I've analysed mobile app logs:
+ * Determined how many logs are there per each date, chose a suitable date interval for analysis
  * Created event funnel to understand when users leave the app
  * Gave recommendations on conversion improvement
  * Checked whether new design was beneficial using the results of A/A/B test
@@ -24,8 +24,8 @@ This repository holds several projects that I've done during my studies at **"Ya
 
 ## [Online store A/B testing](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/07_Online_store_AB_testing/07_Online_store_AB_testing.ipynb)<a id='online_store'></a>
  
- In this project I've worked with data on orders and visits of an online store:
- * I prioritised list of hypotheses to test using ICE and RICE scores
+ In this project I've worked with online store orders and visits:
+ * Prioritised list of hypotheses to test using ICE and RICE scores
  * Analysed results of A/B test: compared cumulative revenue, order size, conversion rate for each group
  * Detected anomalies in data
  * Checked whether there was statistical significance between groups using data with and without anomalies
@@ -56,12 +56,12 @@ This repository holds several projects that I've done during my studies at **"Ya
 
 ## [Food market research](https://github.com/artefazosya/yandex-practicum/blob/main/08_Food_market_research/08_Food_market_research.ipynb)<a id='food'></a>
  
- In this project I've worked with data on food market in LA to provide recommendations for a new restaurant investors:
- * I counted different types of establishments
+ Here I've worked with data on food market in LA to provide recommendations to investors:
+ * Counted different types of establishments
  * Found dependencies between type of establishment and belonging to a chain
  * Visualised number of seats distribution
  * Investigated LA streets with a lot of restaurants
- * Formulated recommendations 
+ * Described strategies for successful restaurant opening
  
 **Key words**: pie chart, bar plot, scatter plot, distribution plot. 
 
