@@ -1,15 +1,3 @@
-# Course Overview
-This repository is dedicated to the projects completed during the **"Yandex.Practicum Data Analysis"** professional program. 
-
-It covered the following themes:
-1. Data Preprocessing (Python)
-2. Exploratory Data Analysis (pandas, numpy)
-3. Statistical Data Analysis (statistics, hypotheses testing)
-4. Data Collection and Storage (HTML, SQL)
-5. Business Analytics ()
-6. Making Business Decisions Based on Data (hypotheses prioritization, A/B testing)
-7. Automation (Tableau)
-8. Forecasts and Predictions (Machine Learning)
 
 # Projects Overview
 ## [Online store A/B testing](https://github.com/artefazosya/Elizaveta_Gorbunova_Portfolio/blob/main/07_Online_store_AB_testing/07_Online_store_AB_testing.ipynb)
@@ -60,6 +48,19 @@ It covered the following themes:
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
+
+# Course Overview
+This repository is dedicated to the projects completed during the **"Yandex.Practicum Data Analysis"** professional program. 
+
+It covered the following themes:
+1. Data Preprocessing (Python)
+2. Exploratory Data Analysis (pandas, numpy)
+3. Statistical Data Analysis (statistics, hypotheses testing)
+4. Data Collection and Storage (HTML, SQL)
+5. Business Analytics (LTV, CAC, ROMI)
+6. Making Business Decisions Based on Data (hypotheses prioritization, A/B testing)
+7. Automation (Tableau)
+8. Forecasts and Predictions (Machine Learning)
 
 
  
