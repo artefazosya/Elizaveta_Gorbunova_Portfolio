@@ -14,8 +14,8 @@ This repository holds some of the projects I've done during my studies at **"Yan
  
 [Course Overview](#course)
 
-# Tableau visualizations(https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='tableau'></a>
-## [Trending YouTube Videos]<a id='yb'></a>
+# Tableau visualizations<a id='tableau'></a>
+## [Trending YouTube Videos](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='yb'></a>
 Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
 
