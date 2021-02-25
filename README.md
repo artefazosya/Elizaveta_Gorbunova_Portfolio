@@ -14,11 +14,12 @@ This repository holds some of the projects I've done during my studies at **"Yan
  
 [Course Overview](#course)
 
-# [Tableau visualizations](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='tableau'></a>
+# Tableau visualizations(https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='tableau'></a>
 ## [Trending YouTube Videos]<a id='yb'></a>
+Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
 
-# [Jupyter notebook]<a id='jn'></a>
+# Jupyter notebook<a id='jn'></a>
 
 ## [Mobile app conversion](https://nbviewer.jupyter.org/github/artefazosya/yandex-practicum/blob/bf518d04cd31bf8bb81d7a34cd361fb2e9eb54bf/09_Mobile_app_conversion/09_Mobile_app_conversion.ipynb)<a id='mobile'></a>
  
