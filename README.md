@@ -4,14 +4,18 @@
 This repository holds some of the projects I've done during my studies at **"Yandex.Practicum Data Analysis"** professional program.
 
 [Tableau visualizations](#tableau)
+ - [Trending YouTube Videos](#yb)
+
 [Jupyter notebook](#jn)
- 1. [Mobile app conversion](#mobile)
- 2. [Online store A/B testing](#online_store)
- 3. [Marketing expenses research](#marketing)
- 4. [Food market research](#food)
+ - [Mobile app conversion](#mobile)
+ - [Online store A/B testing](#online_store)
+ - [Marketing expenses research](#marketing)
+ - [Food market research](#food)
+ 
 [Course Overview](#course)
 
 # [Tableau visualizations](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='tableau'></a>
+## [Trending YouTube Videos]<a id='yb'></a>
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
 
 # [Jupyter notebook]<a id='jn'></a>
