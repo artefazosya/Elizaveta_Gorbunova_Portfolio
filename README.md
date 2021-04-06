@@ -11,11 +11,9 @@ This repository holds some of the projects I've done during my studies at **"Yan
  - [Online store A/B testing](#online_store)
  - [Marketing expenses research](#marketing)
  - [Food market research](#food)
- 
-3. [Course Overview](#course)
 
 # Tableau visualizations<a id='tableau'></a>
-## [Trending YouTube Videos](https://public.tableau.com/profile/elizaveta.gorbunova#!/)<a id='yb'></a>
+## [Trending YouTube Videos](https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
 Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
 
@@ -84,14 +82,3 @@ Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/08_seats.png" alt="drawing" width="400"/>
 <img src="images/08_barplot.png" alt="drawing" width="400"/>
 
-# Course Overview<a id='course'></a>
-This is a brief list of topics I've studied:
-1. Data Preprocessing (**Python, numpy**)
-2. Exploratory Data Analysis (**pandas, scipy, matplotlib**)
-3. Statistical Data Analysis (**probability theory, statistics, hypotheses testing**)
-4. Data Collection and Storage (**HTML, SQL, web scraping**)
-5. Business Analytics (**LTV, CAC, ROMI, cohort analysis**)
-6. Making Business Decisions Based on Data (**hypotheses prioritization, A/B testing**)
-7. Tell story using data (**plotly, seaborn**)
-8. Automation (**ETL, DASH, Tableau**)
-9. Forecasts and Predictions (**Machine Learning**)
