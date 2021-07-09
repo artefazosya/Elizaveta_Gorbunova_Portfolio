@@ -8,7 +8,7 @@ This repository holds some of the projects I've done during and after my studies
  - [Tableau - Trending YouTube Videos](#yb)
 
 2. [GitHub Pages](#ghp)
- - [Meditation app analysis](https://artefazosya.github.io/Norbu_App/)
+ - [Meditation app analysis](#norbu)
 
 2. [Jupyter notebook](#jn)
  - [Mobile app conversion](#mobile)
@@ -17,13 +17,13 @@ This repository holds some of the projects I've done during and after my studies
  - [Food market research](#food)
 
 # Dashboards<a id='tableau'></a>
-## [Sentiment analysis]<a id='ds'></a>(https://datastudio.google.com/reporting/a9675137-204c-4ef6-81b4-6dd1bbec6643/page/Gg3)
-## [Trending YouTube Videos]<a id='yb'></a>(https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+## [Sentiment analysis](https://datastudio.google.com/reporting/a9675137-204c-4ef6-81b4-6dd1bbec6643/page/Gg3)<a id='ds'></a>
+## [Trending YouTube Videos](https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
 Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
 
 # GitHub Pagess<a id='ghp'></a>
-## [Meditation app analysis](https://artefazosya.github.io/Norbu_App/)
+## [Meditation app analysis](https://artefazosya.github.io/Norbu_App/)<a id='norbu'></a>
 
 # Jupyter notebook<a id='jn'></a>
 
