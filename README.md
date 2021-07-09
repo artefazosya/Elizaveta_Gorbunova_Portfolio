@@ -1,10 +1,14 @@
 
 # Projects Overview
 
-This repository holds some of the projects I've done during my studies at **"Yandex.Practicum Data Analysis"** professional program.
+This repository holds some of the projects I've done during and after my studies at **"Yandex.Practicum Data Analysis"** professional program.
 
-1. [Tableau visualizations](#tableau)
- - [Trending YouTube Videos](#yb)
+1. [Dashboards](#tableau)
+ - [Data Studio - Sentiment analysis](#ds)
+ - [Tableau - Trending YouTube Videos](#yb)
+
+2. [GitHub Pages](#ghp)
+ - [Meditation app analysis](#https://artefazosya.github.io/Norbu_App/)
 
 2. [Jupyter notebook](#jn)
  - [Mobile app conversion](#mobile)
@@ -12,10 +16,14 @@ This repository holds some of the projects I've done during my studies at **"Yan
  - [Marketing expenses research](#marketing)
  - [Food market research](#food)
 
-# Tableau visualizations<a id='tableau'></a>
-## [Trending YouTube Videos](https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
+# Dashboards<a id='tableau'></a>
+## [Sentiment analysis]<a id='ds'></a>(#https://datastudio.google.com/reporting/a9675137-204c-4ef6-81b4-6dd1bbec6643/page/Gg3)
+## [Trending YouTube Videos]<a id='yb'></a>(https://public.tableau.com/views/AutomationProject_16133294072210/TrendingYouTubeVideos?:language=en&:display_count=y&:origin=viz_share_link)<a id='yb'></a>
 Dashboard shows trending YouTube videos per country and category over time.
 <img src="images/tableau_yb.png" alt="drawing" width="800"/>
+
+# GitHub Pagess<a id='ghp'></a>
+## [Meditation app analysis](#https://artefazosya.github.io/Norbu_App/)
 
 # Jupyter notebook<a id='jn'></a>
 
